@@ -1,12 +1,4 @@
 # ourtownstephen.github.io
-<!DOCTYPE html>
-<html>
-<head>
-<title>Our First project</title>
-</head>
-<body>
+Our First project<br>
 <b><big>"The gates of Hell are open night and day;<br>Smooth the descent, and easy is the way. <br> But to return, and view the cheerful skies,<br>In this the task and mighty labor lies."</b></big><br>—  Virgil<br><br>
 <b><big>"See you in Hell,<br>Candy Boys!"</b></big><br>— Homer Simpson
-
-</body>
-</html>
